@@ -1,0 +1,122 @@
+header {
+    height: 118px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace
+    
+
+
+
+
+}
+
+
+
+body {
+    font-family: helvetica;
+    background-image: url(images/Screen\ Shot\ 2020-10-08\ at\ 9.49.38\ am.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.904);
+
+}
+
+  ul {
+    font-family: monospace;
+  }
+
+
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+
+
+  }
+
+
+  nav {
+  background-color: rgba(0, 0, 0, 0.301);  
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+
+
+
+
+
+  }
+
+  
+
+
+
+
+main{
+  height: 400px;
+  text-align: center
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
+  
+
+
+
+}
+
+
+a {
+color: rgb(10, 10, 10);
+font-family: Arial, Helvetica, sans-serif;
+/*text-decoration: none; */
+
+
+}
+
+nav a {
+
+  text-decoration: none;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+
+footer {
+  height: 50px;
+  background-color: black;
+
+
+
+
+
+
+}
+
+
+
+h1 {
+text-align: center;
+font-size: xx-large;
+padding-top: 20px;
+font-style: oblique;
+font-family: 'Courier New', Courier, monospace
+}
+
+p {
+text-align: center;
+font-size: x-large;
+padding-left: 40px;
+padding-right: 150px;
+font-style: oblique;
+font-family: 'Courier New', Courier, monospace;
+
+
+
+
+}
